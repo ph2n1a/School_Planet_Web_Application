@@ -1,0 +1,1 @@
+ C:\\PHANTA.inc\\pro\\flutter\\projects\\beta_school_planet\\.dart_tool\\flutter_build\\9173424ed8a70de6a49cb7e04cd793ac\\native_assets.yaml: 

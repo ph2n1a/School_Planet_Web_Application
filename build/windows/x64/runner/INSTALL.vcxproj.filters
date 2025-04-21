@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\PHANTA.inc\pro\flutter\projects\beta_school_planet\build\windows\x64\CMakeFiles\26bc321d61aaf28331c1ba9739fc83e6\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F7AE31FA-D334-306A-B625-B18AF172D90B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
