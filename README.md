@@ -1,16 +1,16 @@
-# beta_sp
+### This is a temporary solution for School Planet (SP) in the form of a web application
 
-A new Flutter project.
+# Advantages over the site:
+- faster access
+- fullscreen mode
+- improved performance
 
-## Getting Started
+# There is a minus, this application is only for Android.
 
-This project is a starting point for a Flutter application.
+# You can use my app as a mockup, it has everything set up and you just need to change the URL in the code
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00FFCB)
+![Dart](https://img.shields.io/badge/-Dart-000000?style=for-the-badge&logo=dart&logoColor=00FFCB)
+![Android Studio](https://img.shields.io/badge/-Android&nbsp;Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=00FFCB)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=00FFCB)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFCB)
